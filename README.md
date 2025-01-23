@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Kartik Bhat Sumbly!
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding, learning, and building innovative projects. Below, you'll find more about me, my work, and the technologies I enjoy using. Feel free to explore my repositories and connect with me!
 
