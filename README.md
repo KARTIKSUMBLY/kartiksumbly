@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 
 I'm a [Your Profession/Role] who loves to explore new technologies and contribute to open-source projects. My primary focus is on **[specific area of expertise, e.g., Full Stack Development, Data Science, AI, etc.]**, but I'm always excited to learn new things.
 
-- 🔭 I’m currently working on [Project name]
-- 🌱 I’m currently learning [Technology/Framework you're learning]
-- 👯 I’m looking to collaborate on [Type of projects you're interested in]
-- 🤔 I’m looking for help with [Any challenges you're working on]
-- 💬 Ask me about [topics you're passionate about]
-- 📫 How to reach me: [Your contact info]
+- 🔭 I’m currently working on DSA
+- 🌱 I’m currently learning ML
+- 👯 I’m looking to collaborate on ML/DSA
+- 🤔 I’m looking for help with RUST
+- 💬 Ask me about Python
+- 📫 How to reach me: instagram id-kartik_bhat_sumbly
 - ⚡ Fun fact: [Something fun or quirky about yourself]
 
 ---
