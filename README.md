@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 
 ## 🚀 About Me
 
-I'm a [Your Profession/Role] who loves to explore new technologies and contribute to open-source projects. My primary focus is on **[specific area of expertise, e.g., Full Stack Development, Data Science, AI, etc.]**, but I'm always excited to learn new things.
+I'm a Computer science engineering student who loves to explore new technologies and contribute to open-source projects. My primary focus is on **[specific area of expertise, e.g., Full Stack Development, Data Science, AI, etc.]**, but I'm always excited to learn new things.
 
 - 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning ML
